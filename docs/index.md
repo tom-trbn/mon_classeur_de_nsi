@@ -1,23 +1,27 @@
-Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs et le thème Material.
-
-> Pour voir le code MarkDown sous jacent, cliquer sur le crayon en haut à droite.
-
 # Mon classeur de NSI
-## Et voici un titre de niveau 2
-Ceci est un paragraphe.  
-Avec un retour à la ligne sans saut de ligne.
+## Introduction
 
-Et avec un retour à la ligne avec saut de ligne.
+Bienvenue sur mon site généré avec le framework MkDocs et le thème Material dans le cadre de la NSI.
 
-## Un lien :
-Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
+### Sommaire 
+- Mes notebooks de l'année
+- Mes travaux sur les activités hors notebooks
+- ...
 
-## Une image :
-![illustration mkdocs-material](https://squidfunk.github.io/mkdocs-material/assets/images/illustration.png)
+## Mes notebooks de l'année :
 
-## Une liste :
-- Toto ;
-- Titi ;
-- Tata...
 
-> Libre à vous de personaliser ce site avec l'aide de ce [tutoriel pour MkDocs](https://github.com/ericECmorlaix/adn-Tutoriel_site_web)...
+
+
+## Mes travaux sur les activités hors notebooks :
+
+Dans cette section, je vais vous présenter 2 activités faites cette année.
+
+- Premièrement, nous avons mon site sur le multimédia réalisé sur Glitch disponible à l'addresse suivante : 
+- Secondement nous avons .... ma rue...
+
+
+
+
+#### Supplément pas piqué des hannetons
+
