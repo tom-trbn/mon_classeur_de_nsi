@@ -9,8 +9,8 @@ Bienvenue sur mon site généré avec le framework MkDocs et le thème Material 
 - ...
 
 ## Mes notebooks de l'année :
-
-
+[Notebook Algo complexité]( https://nbviewer.org/github/tom-trbn/mon_classeur_de_nsi/blob/main/docs/Tom_Algorithmique-Complexite.ipynb
+"Introduction au MarkDown de Mkdocs avec Material")
 
 
 ## Mes travaux sur les activités hors notebooks :
